@@ -1,5 +1,5 @@
 # Hello, I’m Yash 👋
 
-Currently part of ***DevOps at Royal Dutch Shell*** for their SecOps platform which is implemented on ServiceNow ***(PaaS, JavaScript)***. I am a ***Certified ServiceNow Application Developer***, Administrator & an ***Implementation Specialist***. Additionally, I am skilled in ***UI/UX design*** and ***full-stack application development*** having worked on several private as well as independent projects based on ***Angular***, ***NodeJS***, ***Electron***, ***Firebase*** and more.
+I am a ***Software Engineer at Royal Dutch Shell***. I am a ***Certified ServiceNow Application Developer*** & an ***Implementation Specialist***. Additionally, I am proficient in ***UI/UX design*** and ***full-stack application development*** having developed several applications for enterprise as well as product-based startups, based on ***Angular***, ***NodeJS***, ***Electron***, ***Firebase*** and more.
 
 ### [Say Hello](mailto:hi@yashanand.dev) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/yashanand1910/) &nbsp;•&nbsp; [Résumé](https://resume.yashanand.dev) 
