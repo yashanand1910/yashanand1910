@@ -1,4 +1,4 @@
-# Hello, I’m Yash 👋
+# Hello, I’m Yash
 
 Currently pursuing a Master's in Software Engineering at Carnegie Mellon University, School of Computer Science.
 
