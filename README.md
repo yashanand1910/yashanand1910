@@ -4,6 +4,6 @@ I am a design-savyy software engineer with a passion for web applications and sy
 
 I am currently pursuing a Master's in Software Engineering at Carnegie Mellon University, School of Computer Science.
 
-I have experience with low-level systems programming and have designed compilers before. Currently, I am working on a WebAssembly engine called Wizard, where I am leveraging my skills to advance WebAssembly teaching and research.
+I have experience with low-level systems programming and have designed compilers before. Currently, I am working on a WebAssembly engine called [Wizard](https://github.com/titzer/wizard-engine), where I am leveraging my skills to advance WebAssembly teaching and research.
 
 ### [Email](mailto:hi@yashanand.dev) &nbsp;•&nbsp; [Website](https://yashanand.dev) &nbsp;•&nbsp; [Résumé](https://resume.yashanand.dev) 
