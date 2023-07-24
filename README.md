@@ -6,6 +6,6 @@ I am currently pursuing a Master's in Software Engineering at Carnegie Mellon Un
 
 I have experience with functional programming and have built compilers. Currently, I am working on dynamic analysis and instrumentation on a WebAssembly engine called [Wizard](https://github.com/titzer/wizard-engine).
 
-If you are seeking a serious engineer to bring your project to life, let’s connect. Email me at hi@yashanand.dev to get started.
+If you are looking for some serious engineering to bring your project to life, let's connect. Email me at hi@yashanand.dev to get started.
 
 ### [Email](mailto:hi@yashanand.dev) &nbsp;•&nbsp; [Website](https://yashanand.dev) &nbsp;•&nbsp; [Résumé](https://resume.yashanand.dev) 
