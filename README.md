@@ -1,10 +1,10 @@
 # Hello, I’m Yash
 
-I am a seasoned software engineer with a passion for web applications, programming languages and systems with a proven track record of delivering high-quality solutions for both corporates and product-based startups.
+I am a seasoned software engineer with a passion for web applications, programming languages, and systems, backed by a solid track record of delivering top-notch solutions for both corporate organizations and product-based startups.
 
 I am currently pursuing a Master's in Software Engineering at Carnegie Mellon University, School of Computer Science.
 
-I have experience with functional programming and have built compilers. Currently, I am working on dynamic analysis and instrumentation on a WebAssembly engine called [Wizard](https://github.com/titzer/wizard-engine).
+I have a strong background in functional programming and compiler development, and I've researched and created tools for dynamic analysis and instrumentation for WebAssembly.
 
 If you are looking for some serious engineering to bring your project to life, let's connect. Email me at hi@yashanand.dev to get started.
 
