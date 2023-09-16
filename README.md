@@ -1,10 +1,8 @@
 # Hello, I’m Yash
 
-I am a seasoned software engineer with a passion for web applications, programming languages, and systems, backed by a solid track record of delivering top-notch solutions for both corporate organizations and product-based startups.
+A seasoned software engineer with a passion for web applications, programming languages, and computer systems, with a track record of delivering high-quality solutions for both enterprise and product-based startups.
 
-I am currently pursuing a Master's in Software Engineering at Carnegie Mellon University, School of Computer Science.
-
-I have a strong background in functional programming and compiler development, and I've researched and created tools for dynamic analysis and instrumentation for WebAssembly.
+Master's in Software Engineering at Carnegie Mellon University, School of Computer Science, with experience that spans researching WebAssembly, as well as designing and implementing kernels and compilers. Fond of functional programming.
 
 If you are looking for some serious engineering to bring your project to life, let's connect. Email me at hi@yashanand.dev to get started.
 
